@@ -1,0 +1,11 @@
+.fusebox
+node_modules
+lambda/build
+
+public/*
+!public/css
+!public/scripts
+.DS_Store
+
+# temp (dont commit it till its working)
+lambda
